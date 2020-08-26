@@ -1,12 +1,12 @@
 {
   "name": "react-native-shine-button",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "React Native Bridge for ChadCSong/ShineButton & imwcl/WCLShineButton",
   "main": "js/RNShineButton.js",
-  "homepage": "https://github.com/prscX/react-native-shine-button.git",
+  "homepage": "https://github.com/tchmhkg/react-native-shine-button.git",
   "repository": {
     "type": "git",
-    "url": "https://github.com/prscX/react-native-shine-button.git"
+    "url": "https://github.com/tchmhkg/react-native-shine-button.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

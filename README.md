@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="https://www.npmjs.com/package/react-native-shine-button"><img src="http://img.shields.io/npm/v/react-native-shine-button.svg?style=flat" /></a>
-  <a href="https://github.com/prscX/react-native-shine-button/pulls"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" /></a>
-  <a href="https://github.com/prscX/react-native-shine-button#License"><img src="https://img.shields.io/npm/l/react-native-shine-button.svg?style=flat" /></a>
+  <a href="https://github.com/tchmhkg/react-native-shine-button/pulls"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" /></a>
+  <a href="https://github.com/tchmhkg/react-native-shine-button#License"><img src="https://img.shields.io/npm/l/react-native-shine-button.svg?style=flat" /></a>
 </p>
 
     ReactNative: Native Shine Button (Android/iOS)
@@ -45,7 +45,7 @@ This library is a React Native bridge around native Siri wave animation:
         pod 'RNShineButton', :path => '../node_modules/react-native-shine-button/ios'
 
         use_frameworks!
-        pod 'WCLShineButton',:git => 'https://github.com/prscX/WCLShineButton.git', :branch =>'master'
+        pod 'WCLShineButton',:git => 'https://github.com/tchmhkg/WCLShineButton.git', :branch =>'master'
       	```
 
 - **Android**
@@ -73,7 +73,7 @@ allprojects {
         pod 'RNShineButton', :path => '../node_modules/react-native-shine-button/ios'
 
         use_frameworks!
-        pod 'WCLShineButton',:git => 'https://github.com/prscX/WCLShineButton.git', :branch =>'master'
+        pod 'WCLShineButton',:git => 'https://github.com/tchmhkg/WCLShineButton.git', :branch =>'master'
       	```
 
 - **Android**
@@ -100,7 +100,7 @@ allprojects {
 
 #### Android
 
-- Please add below snippet to `defaultConfig` in your app `build.gradle`file. This is with respect to [ISSUE: 1](https://github.com/prscX/react-native-shine-button/issues/1):
+- Please add below snippet to `defaultConfig` in your app `build.gradle`file. This is with respect to [ISSUE: 1](https://github.com/tchmhkg/react-native-shine-button/issues/1):
 
 ```
 jackOptions {
